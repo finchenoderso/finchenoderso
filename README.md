@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello there 
 
-<!--
-**finchenoderso/finchenoderso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You're bigger than I expected.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a secret mission
+- 🌱 I’m currently learning to save the world (but don't tell any1)
+- 👯 I’m looking to collaborate on world peace
+- 🤔 I’m looking for help with bringing down the patriarchy and fighting facism
+- 💬 Ask me about anything
+- 📫 How to reach me: telepathy
+- 😄 Pronouns: any
+- ⚡ Fun fact: i'm not fun
+--> ->
